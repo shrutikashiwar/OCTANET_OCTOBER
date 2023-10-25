@@ -346,24 +346,7 @@ animation-fill-mode: forwards;
         font-size: 30px;
     }
 }
-/*.register h3{
-    font-size: 80px;
-    color: white;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 20px;
-    animation-name: regis;
-    animation-duration: 4s;
-    text-shadow: 4px 4px 0px black;
-}
-@keyframes regis {
-    0%{
-        font-size: 120px;
-    }
-    100%{
-        font-size: 80px;
-    }
-}*/
+
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 * {
   padding: 0;
@@ -395,39 +378,7 @@ animation-fill-mode: forwards;
     transform: translateY(-20px)
   }
 }
-/*#click1{
-    text-align: center;
-    font-size: 30px;
-    position:absolute;
-    top: 90%;
-    left: 46%;
-    font-family: fantasy;
-    font-weight: normal;
-    opacity: 0.7;
-    height: 200px;
-}
 
-#click1 a{
-    color: #ddd;
-    text-decoration: none;
-}
-#click1 a:hover{
-    color: chartreuse;
-}
-
-#click2{
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    text-align: center;
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-#click2 h3{
-    text-align: center;
-    color: #ddd;
-    text-decoration: none;
-}*/
 html{
     scroll-behavior: smooth;
 }
